@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Bateau {
+package main;
+
+public class Bateau {
 }
